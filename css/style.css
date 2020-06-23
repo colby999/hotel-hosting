@@ -1,0 +1,65 @@
+.tales {
+  width: 100%;
+}
+
+.carousel-inner {
+  width: 100%;
+  max-height: 500px !important;
+}
+
+h1 {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  padding: auto;
+  margin: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 100px;
+}
+
+h2 {
+  text-align: center;
+  padding: 5px;
+}
+
+body {
+  background-repeat: repeat;
+  background-color: black;
+  background-size: 1600px 1600px;
+
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgb(255, 255, 255);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(255, 266, 0, 255);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.center {
+  align-self: center;
+  align-content: center;
+  text-align: center;
+}
+
+#sbmt-btn {
+  margin-left: 50%;
+  text-align: center;
+}
+
+.card-body {
+  color: rgb(255, 255, 255);
+}
